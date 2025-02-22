@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
+# Node.js (Frontend)
+node_modules/
+npm-debug.log
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment Files
+.env
